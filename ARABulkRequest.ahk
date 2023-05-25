@@ -1,3 +1,6 @@
+;This is an AutoHotKey script written to submit access 
+;requests via the GUI of a proprietary resoure control system that facilitated no other bulk options. 
+;It uses a community-developed Chrome library that allows you to send javascript commands to a debug instance of Chrome.
 ;Import a proprietary Chrome library
 #Include C:\Working\AutoHotKey\Library\Chrome.ahk
 
